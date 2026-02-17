@@ -3,7 +3,7 @@
 Este projeto é uma API REST desenvolvida com Java e Spring Boot para demonstrar a implementação de padrões de projeto e boas práticas de desenvolvimento.
 
 ## 🛠️ Tecnologias Utilizadas
-* **Java 17**: Linguagem principal.
+* **Java 21**: Linguagem principal.
 * **Spring Boot**: Framework para agilizar o desenvolvimento.
 * **Maven**: Gerenciador de dependências e automação do projeto.
 * **Spring Data JPA**: Para persistência de dados.
