@@ -17,7 +17,7 @@ Este projeto é uma API REST desenvolvida com Java e Spring Boot para demonstrar
 
 ## 🚀 Como Executar o Projeto
 1. Clone o repositório.
-2. Certifique-se de ter o Java 17 instalado.
+2. Certifique-se de ter o Java 21 instalado.
 3. Execute o comando Maven: `./mvnw spring-boot:run` ou rode a classe `TestandoApplication.java` no seu editor.
 4. Acesse o Swagger para testar as rotas em: `http://localhost:8080/swagger-ui.html`.
 
